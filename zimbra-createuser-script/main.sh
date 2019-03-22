@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sign=e00428a1-0c00-11d9-836a-000d93afea2a
 file=./createuser.csv
 date=$(date)
